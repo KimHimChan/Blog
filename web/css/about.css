@@ -1,0 +1,24 @@
+.table-block {
+    border-radius: 10px;
+    border: 1px solid #000;
+    display: block;
+    margin: 1%;
+}
+
+.data-names {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 1%;
+    padding: 1%;
+}
+
+.headers {
+    font-weight: bold;
+    text-align: center;
+}
+
+.leftimg {
+    float: left;
+    margin: 5px;
+}
